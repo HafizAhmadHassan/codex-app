@@ -1,4 +1,5 @@
 # Codex App
+*Created: 2026-05-15*
 
 A **Python** application with an `app.py` entry point and a requirements file.
 
